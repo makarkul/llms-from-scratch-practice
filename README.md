@@ -1,2 +1,2 @@
-# LLM from Scratch
+# LLMs from Scratch
 Exercises from the book "Build a Large Language Model" by Sebasian Raschka
